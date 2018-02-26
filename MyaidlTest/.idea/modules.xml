@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyaidlTest.iml" filepath="$PROJECT_DIR$/MyaidlTest.iml" />
+      <module fileurl="file://E:\AndroidProject\MyTest\MyaidlTest\clientapp\app.iml" filepath="E:\AndroidProject\MyTest\MyaidlTest\clientapp\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientapp/clientapp.iml" filepath="$PROJECT_DIR$/clientapp/clientapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverapp/serverapp.iml" filepath="$PROJECT_DIR$/serverapp/serverapp.iml" />
+    </modules>
+  </component>
+</project>
